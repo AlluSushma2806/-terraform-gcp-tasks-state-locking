@@ -1,0 +1,6 @@
+project_id   = "sushma-483805"
+region       = "asia-south1"
+zone         = "asia-south1-c"
+vm_name      = "qa2-vm"
+machine_type = "e2-medium"
+credentials  = "keys.json"
